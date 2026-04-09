@@ -1,0 +1,6 @@
+phidata
+sqlalchemy
+psycopg[binary]
+pypdf
+ollama
+duckduckgo-search
