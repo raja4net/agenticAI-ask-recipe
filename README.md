@@ -1,5 +1,4 @@
-# 🤖 Agentic AI Recipe + Web Assistant
-
+# 🤖 Local Agentic AI Recipe + Web Assistant using Ollama, PhiData, pgvector, Docker, and DuckDuckGo fallback search
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-green)
 ![Docker](https://img.shields.io/badge/Docker-Required-blue)
