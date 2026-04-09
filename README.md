@@ -55,7 +55,7 @@ cd agenticAI-ask-recipe
 
 2️⃣ Setup Python Environment
 ```bash
-python3 -m venv venv
+python -m venv venv
 source venv/bin/activate   # Mac/Linux
 ```
 
@@ -110,7 +110,7 @@ ___
 
 8️⃣ Run the App
 ```bash
-python3 AskLocalOrWeb.py
+python AskLocalOrWeb.py
 ```
 ___
 📂 Project Structure
